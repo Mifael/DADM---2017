@@ -1,0 +1,9 @@
+# Extensões
+
+- HTML Snippets
+- ESLint
+- FontSize Shortcuts
+- IntelliSense for CSS class names
+- JavaScript Snippet Pack
+- Materialize Snippets
+- EditorConfig for VS Code
